@@ -1,0 +1,9 @@
+﻿@model IEnumerable<NavItem>
+<ul class="nav navbar-nav">
+    @foreach(var m in Model)
+    {
+        <li class="nav-item" id="@m.Id">
+            <a class="nav-link">@m.NavName</a>
+        </li>
+    }
+</ul>

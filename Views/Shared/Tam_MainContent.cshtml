@@ -1,0 +1,149 @@
+﻿@model IEnumerable<Product>
+<div class="navigation-agileits">
+	<div class="container">
+		<nav class="navbar navbar-default">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header nav_2">
+				<button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+				
+					@await Component.InvokeAsync("NavItems")
+				
+			</div>
+		</nav>
+	</div>
+</div>
+<div class="products">
+	<div class="container">
+		<!-- left categories -->
+		<div class="col-md-4 products-left">
+			<div class="categories">
+				<h2>Categories</h2>
+				<ul class="cate">
+					<li><a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i>Fruits And Vegetables</a></li>
+					<li><a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i>Grocery & Staples</a></li>
+					<li><a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i>PersonalCare</a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- /left categories -->
+		<!-- right products grid -->
+		<div class="col-md-8 products-right">
+			<div id="productContainer">
+				<div class="agile_top_brands_grids">
+					@foreach (var m in Model)
+					{
+						<div class="col-md-4 top_brand_left">
+							<div class="hover14 column">
+								<div class="agile_top_brand_left_grid">
+									<div class="agile_top_brand_left_grid_pos">
+										<img src="images/@m.Image" alt=" " class="img-responsive">
+									</div>
+									<div class="agile_top_brand_left_grid1">
+										<figure>
+											<div class="snipcart-item block">
+												<div class="snipcart-thumb">
+													<a href="single.html"><img title=" " alt=" " src="images/@m.Image"></a>
+													<p>@m.Name</p>
+													<h4>@m.UnitPrice</h4>
+												</div>
+												<div class="snipcart-details top_brand_home_details">
+													<form action="#" method="post">
+														<fieldset>
+															<input type="hidden" name="cmd" value="_cart">
+															<input type="hidden" name="add" value="1">
+															<input type="hidden" name="business" value=" ">
+															<input type="hidden" name="item_name" value="@m.Name">
+															<input type="hidden" name="amount" value="@m.UnitPrice">
+															<input type="hidden" name="currency_code" value="USD">
+															<input type="submit" name="submit" value="Add to cart" class="button">
+														</fieldset>
+													</form>
+												</div>
+											</div>
+										</figure>
+									</div>
+								</div>
+							</div>
+						</div>
+					}
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"> </div>
+		<!-- right products grid -->
+	</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+	$(document).ready(function () {
+		$('#searchButton').on('click', function () {
+			var keyword = $('#searchKeyword').val();
+			if (keyword.trim() === '') {
+				alert('Please enter a keyword to search.');
+				return;
+			}
+
+			$.ajax({
+				url: '/Home/SearchProducts', // Đường dẫn tới action tìm kiếm
+				type: 'GET',
+				data: { keyword: keyword },
+				success: function (response) {
+					if (response.success) {
+						var results = response.data;
+						var html = '';
+
+						if (results.length > 0) {
+							results.forEach(function (product) {
+								html += `
+									<div class="col-md-4 top_brand_left">
+										<div class="hover14 column">
+											<div class="agile_top_brand_left_grid">
+												<div class="agile_top_brand_left_grid_pos">
+													<img src="images/${product.image}" alt=" " class="img-responsive">
+												</div>
+												<div class="agile_top_brand_left_grid1">
+													<figure>
+														<div class="snipcart-item block">
+															<div class="snipcart-thumb">
+																<a href="single.html"><img title=" " alt=" " src="images/${product.image}"></a>
+																<p>${product.name}</p>
+																<h4>${product.unitPrice}</h4>
+															</div>
+															<div class="snipcart-details top_brand_home_details">
+																<form action="#" method="post">
+																	<fieldset>
+																		<input type="submit" name="submit" value="Add to cart" class="button">
+																	</fieldset>
+																</form>
+															</div>
+														</div>
+													</figure>
+												</div>
+											</div>
+										</div>
+									</div>`;
+							});
+						} else {
+							html = '<p>No products found.</p>';
+						}
+
+						$('#productContainer').html(html);
+					} else {
+						alert(response.message);
+					}
+				},
+				error: function () {
+					alert('An error occurred while processing your request.');
+				}
+			});
+		});
+	});
+</script>

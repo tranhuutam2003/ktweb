@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Tam_222631136</title>
+    <!-- //for-mobile-apps -->
+    <link href="~/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/site.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/skdslider.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    
+</head>
+<body>
+    <header>
+        <partial name="Tam_Header" />
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+       <partial name="Tam_Footer" />
+    </footer>
+    
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/easing.js"></script>
+    <script src="~/js/jquery-1.11.1.min.js"></script>
+    <script src="~/js/minicart.min.js"></script>
+    <script src="~/js/move-top.js"></script>
+    <script src="~/js//responsiveslides.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/skdslider.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\home\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\home\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\shared\\tam_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\shared\\tam_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\shared\\tam_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\shared\\tam_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\shared\\tam_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\shared\\tam_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\shared\\tam_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\shared\\tam_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\models\\newshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:models\\newshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\viewcomponents\\navitemsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:viewcomponents\\navitemsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\home\\searchproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\home\\searchproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\views\\shared\\components\\navitems\\rendernavitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:views\\shared\\components\\navitems\\rendernavitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|c:\\users\\tam tran\\source\\repos\\tam-222631136\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9713CC29-4978-4C6B-867A-388D09C865F7}|Tam-222631136.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:11.592Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tam_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Tam_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Tam_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:52:40.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:54:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Home\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Home\\CreateProduct.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T02:46:10.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tam_MainContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_MainContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Tam_MainContent.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_MainContent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Tam_MainContent.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:54:30.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tam_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Tam_Footer.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Tam_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:53:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tam_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Tam_Header.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Tam_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Tam_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T12:53:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:52:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\NewShopContext.cs",
+              "RelativeDocumentMoniker": "Models\\NewShopContext.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\NewShopContext.cs",
+              "RelativeToolTip": "Models\\NewShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:50:21.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "Models\\Provider.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\Provider.cs",
+              "RelativeToolTip": "Models\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:29:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:07:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:39:43.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavItemsViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\ViewComponents\\NavItemsViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\NavItemsViewComponent.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\ViewComponents\\NavItemsViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\NavItemsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:41:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Home\\SearchProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SearchProducts.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Home\\SearchProducts.cshtml",
+              "RelativeToolTip": "Views\\Home\\SearchProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T16:34:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RenderNavItems.cshtml",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Components\\NavItems\\RenderNavItems.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\NavItems\\RenderNavItems.cshtml",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Views\\Shared\\Components\\NavItems\\RenderNavItems.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\NavItems\\RenderNavItems.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:04:03.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tam tran\\source\\repos\\Tam-222631136\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:51:29.418Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
